@@ -5,6 +5,8 @@ Project Name: Nike Website Demo
 Technologies:
 
 React: JavaScript library for building interactive user interfaces
+
+
 Tailwind CSS: Utility-first CSS framework for rapid styling
 
 # React + Vite
